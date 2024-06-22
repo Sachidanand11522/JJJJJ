@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jun 2024 17:49:56 at https://revomac.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://revomac.in/ -O1 "C:\Users\karti\OneDrive\Desktop\kartikey\jktilemachinery" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:50:24	Warning: 	File not parsed, looks like binary: https://www.revomac.in/vendor/rs-plugin/css/openhand.cur
+17:50:24	Warning: 	File not parsed, looks like binary: https://www.revomac.in/vendor/rs-plugin/css/closedhand.cur
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/submenu.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/menu-divider.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/close.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/pattern2.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/grid.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/pattern.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/parallax/parallax-bg.jpg (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/iconalt.svg (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/play.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/dotted.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/widget-comment.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/css/images/icons/widget-link.png (from https://www.revomac.in/assets/frontend/css/style.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/submenu-dark.png (from https://www.revomac.in/assets/frontend/css/dark.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/preloader-dark.gif (from https://www.revomac.in/assets/frontend/css/dark.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-comment-dark.png (from https://www.revomac.in/assets/frontend/css/dark.css)
+17:50:24	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-link-dark.png (from https://www.revomac.in/assets/frontend/css/dark.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/patterns/worn_dots.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/patterns/az_subtle.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/flags.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/pencil-blue-line.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/overlay-dot.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/map.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/home/home-concept.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/home/home-concept-item.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/home/home-concept-icons.png (from https://www.revomac.in/assets/frontend/css/theme-elements.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/submenu.png (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/preloader@2x.gif (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/preloader-dark@2x.gif (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-comment@2x.png (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-link@2x.png (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-comment-dark@2x.png (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://www.revomac.in/assets/frontend/images/icons/widget-link-dark@2x.png (from https://www.revomac.in/assets/frontend/css/responsive.css)
+17:50:25	Error: 	"Not Found" (404) at link https://revomac.in/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:50:25	Error: 	"Not Found" (404) at link https://revomac.in/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:50:25	Error: 	"Not Found" (404) at link https://revomac.in/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:50:25	Error: 	"Not Found" (404) at link https://revomac.in/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+17:50:25	Error: 	"Not Found" (404) at link https://revomac.in/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 103 links scanned, 64 files written (7249547 bytes overall) [4725518 bytes received at 162948 bytes/sec], 3228829 bytes transferred using HTTP compression in 32 files, ratio 20%, 11.4 requests per connection
+(37 errors, 2 warnings, 0 messages)
